@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1728780270 source:i:\coding\c++ code\project try-1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+	<ctime>
+
+1728932713 source:d:\project try-1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+	<ctime>
+	<memory>
+
+1728932713 source:c:\users\user\onedrive\desktop\project try-1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+	<ctime>
+	<memory>
+
+1728844559 source:f:\project try-1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<random>
+	<ctime>
+
